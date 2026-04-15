@@ -1,6 +1,6 @@
 # Mini Online Judge
 
-A production-grade, resume-worthy backend system modelled after platforms like LeetCode and HackerRank — built entirely with **FastAPI + PostgreSQL + SQLAlchemy + Alembic + JWT**.
+A backend system modelled after platforms like LeetCode and HackerRank — built entirely with **FastAPI + PostgreSQL + SQLAlchemy + Alembic + JWT**.
 
 ---
 
